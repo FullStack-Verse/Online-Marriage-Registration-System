@@ -16,8 +16,8 @@ How to run the Online Marriage Registration System using PHP and MySQL
 
 
 User Credential
-Username: 1234567890
-Password: Test@123
+Username: 9876543210
+Password: ranveer
 
 Admin Credential
 Username: admin
